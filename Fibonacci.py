@@ -13,3 +13,4 @@ while i <= numero_termos - 2:
     # b = c
     a, b = b, c
     i = i + 1
+ #Alteração repositorio local
